@@ -4,6 +4,7 @@
 ## About me
 I am a beginner tester. I gain knowledge about software testing from online courses and dedicated books. I need a profession that allow me constantly self-develop. In the future, I see myself as an automation tester.
 
+
 ## Tools
 * Jira
 * TestLink
@@ -57,7 +58,8 @@ I am a beginner tester. I gain knowledge about software testing from online cour
 
 
 ## Projects
-Simple static websites built on HTML/CSS 
+Simple static websites built on HTML5/CSS3
+
 * https://hafcikbyula.pl/
 * https://wlpracowniakrawiecka.pl/
 * https://eduwalk.pl/

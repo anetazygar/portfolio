@@ -14,11 +14,11 @@ I am a beginner tester. I gain knowledge about software testing from online cour
   
 
 ## Skills
-* HTML5
-* CSS3
 * Knowledge of testing procedures and the creation of test documentation
+* HTML5/CSS3
 * DevTools knowledge
-* SQL knowledge
+* SQL basics
+* communicative English
 
 ## Courses
 💡<a href= "https://www.udemy.com/certificate/UC-60f071ca-86d6-45f5-b181-5e5c6591fe73/" target="_blank"> Web developer od podstaw - Udemy </a> <br> 
@@ -47,9 +47,13 @@ I am a beginner tester. I gain knowledge about software testing from online cour
 
 💡Cypress od podstaw - Automatyzacja testów (w trakcie realizacji) <br>
 
+💡Programowanie w JavaScript (w trakcie realizacji) <br>
+
 ## Groups/blogs about testing
 * Girls Who Tests
 * Testowanie oprogramowania
+* Tester oprogramowania - jak nim zostać?
+* Tester oprogramowania - wsparcie na starcie
 
 
 ## Projects

@@ -1,10 +1,10 @@
 # portfolio
 Portfolio
 
-## O mnie
-Jestem początkującą testerką. Wiedzę na temat testownania oprogramowania czerpię z kursów online oraz dedykowanych książek. W przyszłości widzę siebie jako tester automatyzujący.
+## About me
+I am a beginner tester. I gain knowledge about software testing from online courses and dedicated books.I need a profession that allow me constantly self-develop. In the future, I see myself as an automation tester.
 
-## Narzędzia 
+## Tools
 * Jira
 * TestLink
 * Postman
@@ -13,25 +13,26 @@ Jestem początkującą testerką. Wiedzę na temat testownania oprogramowania cz
 * Sharex
   
 
-## Umiejętności
+## Skills
 * HTML5
 * CSS3
-* Tworzenie przypadków testowych
-* Tworzenie scenariuszy testowych
-* Raportowanie błędów
+* Knowledge of testing procedures and the creation of test documentation
+* DevTools knowledge
+* SQL knowledge
 
-## Kursy
+## Courses
 * Web developer od podstaw
 * Front-end średniozaawansowany
 * Praktyczny kurs testowania oprogramowania
+* SQL w 120 minut - kursySQL.pl
 * Cypress od podstaw - Automatyzacja testów (w trakcie realizacji)
 
-## Grupy testerskie
+## Groups/blogs about testing
 * Girls Who Tests
 * Testowanie oprogramowania
 
 
-## Projekty
+## Projects
 * https://anetazygar.pl/
 * https://hafcikbyula.pl/
 * https://wlpracowniakrawiecka.pl/

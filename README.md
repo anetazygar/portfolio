@@ -57,10 +57,13 @@ I am a beginner tester. I gain knowledge about software testing from online cour
 
 
 ## Projects
-* https://anetazygar.pl/
+Simple static websites built on HTML/CSS 
 * https://hafcikbyula.pl/
 * https://wlpracowniakrawiecka.pl/
 * https://eduwalk.pl/
+  
+Simple websites built on WordPress
 * https://justynazygar.pl/
+* https://anetazygar.pl/
 
 

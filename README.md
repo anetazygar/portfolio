@@ -1,5 +1,5 @@
-# portfolio
-Portfolio
+# Portfolio Aneta Zygar
+
 
 ## About me
 I am a beginner tester. I gain knowledge about software testing from online courses and dedicated books. I need a profession that allow me constantly self-develop. In the future, I see myself as an automation tester.

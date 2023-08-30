@@ -42,7 +42,7 @@ I am a beginner tester. I gain knowledge about software testing from online cour
 - JMeter - basics
 - BrowserStack
 - SQL - basics
-- GIT - basics
+
 
 💡SQL w 120 minut - kursySQL.pl <br>
 

@@ -42,6 +42,11 @@ I am a beginner tester. I gain knowledge about software testing from online cour
 💡SQL w 120 minut - kursySQL.pl <br>
 
 💡 <a href="https://www.udemy.com/certificate/UC-c64c5a30-85ad-4729-94d3-f11fb3942e4c/" target="_blank"> Postman - REST API Testing </a> <br>
+- Postman
+- REST API testing
+- sending requests
+- defining variables
+- defining environments
 
 💡Cypress from scratch  - Test automation (in progress) <br>
 

@@ -1,5 +1,9 @@
 # Portfolio Aneta Zygar
 
+<img src="IN.jpg" 
+   alt="Alt text" 
+   title="website img"
+   style="display: inline-block; margin: 0 auto; max-width: 300 px" >
 
 ## About me
 I am a beginner tester. I gain knowledge about software testing from online courses and dedicated books. I need a profession that allow me constantly self-develop. In the future, I see myself as an automation tester.
@@ -24,11 +28,11 @@ I am a beginner tester. I gain knowledge about software testing from online cour
 * communicative English
 
 ## Courses
-💡<a href= "https://www.udemy.com/certificate/UC-60f071ca-86d6-45f5-b181-5e5c6591fe73/" target="_blank"> Web developer from scratch </a> <br> 
+➡️ <a href= "https://www.udemy.com/certificate/UC-60f071ca-86d6-45f5-b181-5e5c6591fe73/" target="_blank"> Web developer from scratch </a> <br> 
 
-💡<a href="https://www.udemy.com/certificate/UC-5ab3c315-a73c-4aad-b41c-86770b7e215b/" target="_blank"> Front-end średniozaawansowany  </a> <br>
+➡️ <a href="https://www.udemy.com/certificate/UC-5ab3c315-a73c-4aad-b41c-86770b7e215b/" target="_blank"> Front-end średniozaawansowany  </a> <br>
 
-💡<a href="https://www.udemy.com/certificate/UC-3952c167-e305-4657-93a2-e357530f7e1b/" target="_blank"> Practical software testing course ( Praktyczny kurs testowania oprogramowania)  </a> <br>
+➡️ <a href="https://www.udemy.com/certificate/UC-3952c167-e305-4657-93a2-e357530f7e1b/" target="_blank"> Practical software testing course (Praktyczny kurs testowania oprogramowania)  </a> <br>
 - exploratory testing
 - using DevTools
 - using Jira to bug reporting
@@ -38,17 +42,16 @@ I am a beginner tester. I gain knowledge about software testing from online cour
 - BrowserStack - basics
 - SQL - basics
 
+➡️ SQL w 120 minut - kursySQL.pl <br>
 
-💡SQL w 120 minut - kursySQL.pl <br>
-
-💡 <a href="https://www.udemy.com/certificate/UC-c64c5a30-85ad-4729-94d3-f11fb3942e4c/" target="_blank"> Postman - REST API Testing </a> <br>
+➡️ <a href="https://www.udemy.com/certificate/UC-c64c5a30-85ad-4729-94d3-f11fb3942e4c/" target="_blank"> Postman - REST API Testing </a> <br>
 - Postman
 - REST API testing
 - sending requests
 - defining variables
 - defining environments
 
-💡Cypress from scratch  - Test automation (in progress) <br>
+➡️ Cypress from scratch  - Test automation (in progress) <br>
 
 
 ## Groups/blogs about testing

@@ -1,9 +1,5 @@
 # Portfolio Aneta Zygar
 
-<img src="IN.jpg" 
-   alt="Alt text" 
-   title="website img"
-   style="display: inline-block; margin: 0 auto; max-width: 300 px" >
 
 ## About me
 I am a beginner tester. I gain knowledge about software testing from online courses and dedicated books. I need a profession that allow me constantly self-develop. In the future, I see myself as an automation tester.
@@ -18,6 +14,8 @@ I am a beginner tester. I gain knowledge about software testing from online cour
 * WordPress
 * PicPick
 * Sharex
+* Hotjar
+* Google Analytisc
   
 
 ## Skills
@@ -28,6 +26,21 @@ I am a beginner tester. I gain knowledge about software testing from online cour
 * communicative English
 
 ## Courses
+➡️ <a href= "https://drive.google.com/file/d/11ro_9UlcZs8alxYwZV0IKKZfUaflRxMU/view?usp=drive_link" target="_blank"> Woman go Tech - discovery program </a> <br> 
+- Cyber CSecurity
+- IT Project Management
+- Product Ownership
+- Back-end development
+- Front-end development
+- Quality Assurance
+- UX/UI Design
+- Business Analysis
+- Data Analysis
+- Production Engineering
+- Coding Languages Overview
+- Gaming Industry Overview
+  
+
 ➡️ <a href= "https://www.udemy.com/certificate/UC-60f071ca-86d6-45f5-b181-5e5c6591fe73/" target="_blank"> Web developer from scratch </a> <br> 
 
 ➡️ <a href="https://www.udemy.com/certificate/UC-5ab3c315-a73c-4aad-b41c-86770b7e215b/" target="_blank"> Front-end średniozaawansowany  </a> <br>
@@ -59,6 +72,15 @@ I am a beginner tester. I gain knowledge about software testing from online cour
 * Testowanie oprogramowania
 * Tester oprogramowania - jak nim zostać?
 * Tester oprogramowania - wsparcie na starcie
+
+## Books
+
+* Zawód tester. Od decyzji do zdobycia doświadczenia
+* Sylabus ISTQB
+* Nie każ mi myśleć! O życiowym podejściu do funkcjonalności stron internetowych
+* Projektowanie witryn internetowych User Experience" Smashing Magazine
+* UXUI. Design zoptymalizowany
+
 
 
 ## My Projects

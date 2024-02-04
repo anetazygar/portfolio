@@ -6,41 +6,40 @@ I am a beginner tester. I gain knowledge about software testing from online cour
 
 
 ## Skills
+  - Requirements analysis
+  - Creating scenarios and test cases
+  - Bugs reporting
+  - Create a report documenting test results
+  - Working with tools supporting the testing process
+  - Performing manual tests
+  - Functional testing
+  - Knowledge of testing principles, test techniques and test methods
+  - Scrum solution
+  - DevTools knowledge
+  - SQL basics
+  - HTML5/CSS3
+  - communicative English
 
-- Requirements analysis
-- Creating scenarios and test cases
-- Bugs reporting
-- Create a report documenting test results
-- Working with tools supporting the testing process
-- Performing manual tests
-- Functional testing
-- Knowledge of testing principles, test techniques and test methods
-- Scrum solution
-- DevTools knowledge
-- SQL basics
-- HTML5/CSS3
-- communicative English
+  ## Soft Skills
+  - Comunications
+  - Problem-Solving
+  - Effective Collaboration
+  - Prioritization and time management
+  - Curiosity and continuous learning
+  - Open-Minded Approach
+  - Creativity
 
   ## Tools
-* Comunications
-* Problem-Solving
-* Effective Collaboration
-* Prioritization and time management
-* Curiosity and continuous learning
-* Open-Minded Approach
-* Creativity
-
-  ## Tools
-* Jira
-* TestLink
-* Postman
-* Chrome DevTools
-* Visual Studio Code
-* WordPress
-* PicPick, Sharex
-* Canva
-* Hotjar
-- Google Analytisc
+  - Jira
+  - TestLink
+  - Postman
+  - Chrome DevTools
+  - Visual Studio Code
+  - WordPress
+  - PicPick, Sharex
+  - Canva
+  - Hotjar
+  - Google Analytisc
 
 ## Courses
 

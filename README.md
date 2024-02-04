@@ -97,7 +97,7 @@ I am a beginner tester. I gain knowledge about software testing from online cour
 * Zawód tester. Od decyzji do zdobycia doświadczenia
 * Sylabus ISTQB
 * Nie każ mi myśleć! O życiowym podejściu do funkcjonalności stron internetowych
-* Projektowanie witryn internetowych User Experience" Smashing Magazine
+* Projektowanie witryn internetowych User Experience Smashing Magazine
 * UXUI. Design zoptymalizowany
 
 

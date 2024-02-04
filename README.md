@@ -5,27 +5,47 @@
 I am a beginner tester. I gain knowledge about software testing from online courses and dedicated books. I need a profession that allow me constantly self-develop. In the future, I see myself as an automation tester.
 
 
-## Tools
+## Skills
+
+- Requirements analysis
+- Creating scenarios and test cases
+- Bugs reporting
+- Create a report documenting test results
+- Working with tools supporting the testing process
+- Performing manual tests
+- Functional testing
+- Knowledge of testing principles, test techniques and test methods
+- Scrum solution
+- DevTools knowledge
+- SQL basics
+- HTML5/CSS3
+- communicative English
+
+  ## Tools
+* Comunications
+* Problem-Solving
+* Effective Collaboration
+* Prioritization and time management
+* Curiosity and continuous learning
+* Open-Minded Approach
+* Creativity
+
+  ## Tools
 * Jira
 * TestLink
 * Postman
 * Chrome DevTools
 * Visual Studio Code
 * WordPress
-* PicPick
-* Sharex
+* PicPick, Sharex
+* Canva
 * Hotjar
-* Google Analytisc
-  
-
-## Skills
-* Knowledge of testing procedures and the creation of test documentation
-* HTML5/CSS3
-* DevTools knowledge
-* SQL basics
-* communicative English
+- Google Analytisc
 
 ## Courses
+
+➡️ <a href= "https://drive.google.com/file/d/1cQYa1vgjcZ2abGUuRJA8XaCctf_QqeOH/view?usp=drive_link" target="_blank"> Warsztaty projektowe / UX metodą Design Thinking </a> <br> 
+
 ➡️ <a href= "https://drive.google.com/file/d/11ro_9UlcZs8alxYwZV0IKKZfUaflRxMU/view?usp=drive_link" target="_blank"> Woman go Tech - discovery program </a> <br> 
 - Cyber CSecurity
 - IT Project Management

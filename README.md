@@ -108,8 +108,6 @@ I am a beginner tester. I gain knowledge about software testing from online cour
 
 📝 Testing ZALANDO site search website <a href="https://github.com/anetazygar/site-search-testing-/blob/main/README.md" target="_blank"> More </a> <br> 
 
-📝 Testing message sending form on the Contact page and website valuation form <a href="https://github.com/anetazygar/Project/blob/main/README.md#project-testing-website" target="_blank"> More </a>
-
 
 💻 Simple responsive static websites built on HTML5/CSS3 designed and created from scratch by myself 
   * https://web-portfolio.pl - My own portfolio website <br>
@@ -117,8 +115,7 @@ I am a beginner tester. I gain knowledge about software testing from online cour
   * https://wlpracowniakrawiecka.pl - website for a tailoring studio ➡️ commercial project 
   * https://eduwalk.pl - website  for tourist guide <br>
   
-💻 Simple websites built on WordPress based on Elementor
+💻 Simple website built on WordPress based on Elementor
   * https://justynazygar.pl - website created for makeup artist ➡️ commercial project
-  * https://anetazygar.pl - website based od WordPress
 
 
